@@ -1,0 +1,4 @@
+Coffee, 400, 10
+Tea, 600, 5
+Juice, 300, 8
+Water, 100, 3
